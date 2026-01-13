@@ -19,6 +19,7 @@ It performs basic operations between two numbers (integers or floats).
 * Tkinter (comes pre-installed with Python)
 
 **How to Run**
+
 python calculator.py
 
 **How It Works**
@@ -27,5 +28,5 @@ python calculator.py
 3. Click Result to see the output.
 
 **Notes**
-*Division by zero shows "Undefined Result".
-*Invalid inputs display an error message.
+* Division by zero shows "Undefined Result".
+* Invalid inputs display an error message.
